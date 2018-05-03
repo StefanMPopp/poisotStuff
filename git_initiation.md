@@ -17,3 +17,8 @@ $ git config --global user.email "my@email.ca"
 http://commonmark.org/help/
 
 Ommelette du Frommage
+
+# how to make branches
+
+$git checkout -b whateveryouwannanameit
+
